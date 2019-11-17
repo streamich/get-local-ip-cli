@@ -1,0 +1,16 @@
+{
+    "name": "get-local-ip-cli",
+    "version": "0.0.0",
+    "bin": {
+        "get-local-ip-cli": "./index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/streamich/get-local-ip-cli.git"
+    },
+    "keywords": [
+        "ip",
+        "local",
+        "cli"
+    ]
+}
